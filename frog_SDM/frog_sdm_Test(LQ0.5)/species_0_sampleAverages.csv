@@ -1,0 +1,9 @@
+Predictor variable,Categorical,Sample average
+Aspect,true,2.0
+DEM,false,178.9245283018868
+D_Built,false,11759.850165601047
+D_Farm,false,14828.38902484246
+D_Forest,false,505.9596829144458
+D_Road,false,727.8098013176394
+LC_Type1,false,4.132075471698113
+TWI,false,-0.28581124487912823

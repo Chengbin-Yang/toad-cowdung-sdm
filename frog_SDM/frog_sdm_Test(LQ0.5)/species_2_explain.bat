@@ -1,0 +1,2 @@
+java -mx500m -cp "/C:/Program Files/R/R-4.3.2/library/dismo/java/maxent.jar;C:/Program Files/R/R-4.3.2/library/rJava/java/boot;.;C:\Program Files\Java\jre-1.8\lib\rt.jar;C:\Program Files\R\R-4.3.2\library\dismo\java;C:\Program Files\R\R-4.3.2\library\dismo\java\dismo.jar;C:\Program Files\R\R-4.3.2\library\dismo\java\maxent.jar" density.Explain -l D:\frog\endresult\PIKA_Test(LQ0.5)\species_2.lambdas -c D:\frog\endresult\PIKA_Test(LQ0.5)\species_2.asc D:\frog\endresult\PIKA_Test(LQ0.5)\absence
+@if errorlevel 1 pause
