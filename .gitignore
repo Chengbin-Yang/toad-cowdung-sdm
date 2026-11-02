@@ -1,0 +1,12 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Large binary data — kept locally, excluded from repo
+*.zip
