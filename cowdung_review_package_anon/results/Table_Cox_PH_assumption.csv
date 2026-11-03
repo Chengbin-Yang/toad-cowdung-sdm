@@ -1,0 +1,7 @@
+"model","term","chisq","df","p"
+"Categorical treatment model","group",3.82796800261215,4,0.429788185364148
+"Categorical treatment model","init_eggs",0.247178811974575,1,0.619068605541358
+"Categorical treatment model","GLOBAL",5.40209012016338,5,0.368801525088015
+"Continuous concentration model","concentration",1.33277395524033,1,0.248312327224808
+"Continuous concentration model","init_eggs",0.392187000805763,1,0.531152055780672
+"Continuous concentration model","GLOBAL",2.08693736613788,2,0.352230783572774

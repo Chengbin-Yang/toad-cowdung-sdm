@@ -1,0 +1,26 @@
+file,type,paper_object,status
+data/01_experiment_daily_records.xlsx,data,"Table 1, Figures 3 and 4, Tables S2 to S6",included
+data/04_pixel_habitat_concentration.csv,data,Figure 6a,included
+data/05_cattle_density_10m.tif,data,"Figure 5, Figure 6, Supplementary Figure 4",included
+data/06_manure_concentration_mL_L.tif,data,"Figure 5, Figure 6",included
+code/fig3_temporal_dynamics.R,code,"Figure 3, Table 1",included
+code/fig4_metamorphosis.R,code,"Figure 4, Table 1, Table S6",included
+code/fig6a_violin.R,code,Figure 6a,included
+code/fig6a_pixel_stats.R,code,Figure 6a statistics,included
+code/fig6b_class_area.R,code,Figure 6b,"included, input missing"
+code/cattle_density_buffer.py,code,"Supplementary Figure 4, Eq. (1)","included, inputs missing"
+code/concentration_calc.py,code,concentration raster,"included, inputs missing"
+code/concentration_classified_plot.py,code,class preview,included
+code/archive/experiment_analysis_revised.R,code,traceability,included
+code/archive/experiment_analysis_v2.R,code,Tables S3 to S8,included
+code/archive/extra_checks.R,code,additional checks,included
+data/07_village_points_grazing.csv,data,"Table S1, cattle density buffers",included
+data/08_class_area_data.csv,data,Figure 6b,"reconstructed, area convention to confirm"
+data/09_gpw_cattle_30m.tif,data,Supplementary Figure 4,included
+data/10_grazing_mask_30m.tif,data,Supplementary Figure 4,included
+data/11_manure_mass_10m.tif,data,concentration input,included
+data/12_runoff_volume_10m_m3.tif,data,concentration input,included
+data/13_habitat_suitability_1km_utm53n.tif,data,"Figure 5, Figure 6","included, collaborator product"
+code/09_manure_mass.py,code,manure mass raster,included
+code/10_runoff_volume.py,code,runoff volume raster,included
+code/11_apply_grazing_mask.py,code,grazing mask,included

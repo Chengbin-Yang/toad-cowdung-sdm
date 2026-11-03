@@ -1,0 +1,5 @@
+"outcome","numerator_df","denominator_df","F","p","test"
+"First tadpole appearance (days)",4,33.858106487558,1.29280739181334,0.292378965587269,"Welch one-way ANOVA"
+"First limb appearance (days)",4,33.6212260219206,4.30449681695303,0.00640773164093124,"Welch one-way ANOVA"
+"Tadpole-to-limb interval (days)",4,33.9342582350418,4.09593188155196,0.0081607856604942,"Welch one-way ANOVA"
+"Limb-to-froglet interval (days)",4,33.4558177365761,0.285966236572381,0.884999462609891,"Welch one-way ANOVA"

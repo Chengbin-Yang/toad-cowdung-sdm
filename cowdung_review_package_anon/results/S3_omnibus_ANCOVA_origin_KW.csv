@@ -1,0 +1,10 @@
+"outcome","test","df1","statistic","p","term","df","F"
+"Initial egg count","One-way ANOVA",4,2.94904306220097,0.0259628770610992,NA,NA,NA
+"First froglet (ANCOVA)",NA,NA,NA,0.238175116816822,"group      ",4,1.41611851767081
+"First froglet (ANCOVA)",NA,NA,NA,0.431815043712958,"init_eggs  ",1,0.625463044699391
+"First froglet (ANCOVA)",NA,NA,NA,NA,"Residuals  ",67,NA
+"First froglet (group + init_eggs + origin)",NA,NA,NA,0.0744752757429785,"group      ",4,2.24160145159914
+"First froglet (group + init_eggs + origin)",NA,NA,NA,0.323534763975391,"init_eggs  ",1,0.990057577402353
+"First froglet (group + init_eggs + origin)",NA,NA,NA,1.03376982725622e-06,"origin     ",4,10.7638996812509
+"First froglet (group + init_eggs + origin)",NA,NA,NA,NA,"Residuals  ",63,NA
+"First froglet (days)","Kruskal-Wallis",NA,4.54799363477861,0.33689454834261,NA,4,NA

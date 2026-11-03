@@ -1,0 +1,5 @@
+"outcome","term","chisq","df","p"
+"PH assumption (continuous + origin fixed)","concentration",3.71733549211416,1,0.0538502396977113
+"PH assumption (continuous + origin fixed)","init_eggs",0.217894485605508,1,0.640648918982696
+"PH assumption (continuous + origin fixed)","origin",8.24348684396177,4,0.0830553082387878
+"PH assumption (continuous + origin fixed)","GLOBAL",11.1434975872187,6,0.0840414305497188

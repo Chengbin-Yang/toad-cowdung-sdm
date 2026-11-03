@@ -1,0 +1,26 @@
+"outcome","group","mean","sd","n"
+"Metamorphosis timing among observed events (days)","Control",43,7.15756727043269,14
+"Metamorphosis timing among observed events (days)","Low",40.3571428571429,5.25660233723915,14
+"Metamorphosis timing among observed events (days)","Medium",40.8,5.41426686766415,15
+"Metamorphosis timing among observed events (days)","High",41.1333333333333,5.50151494287407,15
+"Metamorphosis timing among observed events (days)","Ultra-High",38.2,3.76449579245728,15
+"Day-60 froglet rate","Control",0.285707892950963,0.121654294649801,15
+"Day-60 froglet rate","Low",0.339576280654712,0.194493992575194,15
+"Day-60 froglet rate","Medium",0.330891538413278,0.124915078546774,15
+"Day-60 froglet rate","High",0.388278457179035,0.194653393921914,15
+"Day-60 froglet rate","Ultra-High",0.395783598355828,0.163089052870807,15
+"Day-60 froglet count","Control",8,3.35942171894424,15
+"Day-60 froglet count","Low",8.4,4.32269757046619,15
+"Day-60 froglet count","Medium",7.86666666666667,2.50333111406914,15
+"Day-60 froglet count","High",10,4.75093975666168,15
+"Day-60 froglet count","Ultra-High",9.53333333333333,3.24844285041017,15
+"Maximum tadpole count","Control",21.5333333333333,9.25717225157003,15
+"Maximum tadpole count","Low",22.5333333333333,5.44933372947905,15
+"Maximum tadpole count","Medium",19.0666666666667,7.13609203442679,15
+"Maximum tadpole count","High",21,7.89212989539036,15
+"Maximum tadpole count","Ultra-High",16.2666666666667,7.34328329317408,15
+"Initial egg count","Control",28.3333333333333,3.55902608401044,15
+"Initial egg count","Low",26.1333333333333,3.62267988149788,15
+"Initial egg count","Medium",24.3333333333333,2.52605470664283,15
+"Initial egg count","High",26.4,3.33380948980078,15
+"Initial egg count","Ultra-High",25,4.05321741688889,15

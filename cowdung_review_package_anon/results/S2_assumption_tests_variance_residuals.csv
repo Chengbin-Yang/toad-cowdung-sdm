@@ -1,0 +1,6 @@
+"outcome","test","statistic","df1","df2","p"
+"First froglet (days)","Levene (median-centred)",1.24020311475818,4,68,0.302212848263466
+"First froglet (days)","Bartlett",5.24601582908169,4,NA,0.262973156618343
+"Day-60 froglet rate","Levene (median-centred)",2.05207402954207,4,70,0.0964307438394242
+"Day-60 froglet rate","Bartlett",5.4893967134922,4,NA,0.240663090420594
+"Residuals of one-way ANOVA (first froglet)","Shapiro-Wilk",0.966634755321782,NA,NA,0.0501846550053888

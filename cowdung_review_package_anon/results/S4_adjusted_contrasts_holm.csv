@@ -1,0 +1,5 @@
+"outcome","comparison","difference_days","lower95","upper95","p_raw","p_holm"
+"First froglet, adjusted for initial eggs","Low - Control",-2.2619567589365,-6.53309097827469,2.00917746040168,0.294276535730261,0.882829607190782
+"First froglet, adjusted for initial eggs","Medium - Control",-1.58693176302297,-5.96131634130171,2.78745281525577,0.471520052111744,0.908738916174151
+"First froglet, adjusted for initial eggs","High - Control",-1.56847608039736,-5.72870842680872,2.591756266014,0.454369458087075,0.908738916174151
+"First froglet, adjusted for initial eggs","Ultra-High - Control",-4.28850519873514,-8.5789189279599,0.0019085304896258,0.0500991123251192,0.200396449300477

@@ -1,0 +1,6 @@
+"outcome","df_between","df_within","F","p","test"
+"Metamorphosis timing among observed events (days)",4,68,1.42396155036994,0.23544277757922,"One-way ANOVA"
+"Day-60 froglet rate",4,70,1.15133569026484,0.339815834367954,"One-way ANOVA"
+"Day-60 froglet count",4,70,0.98420980365234,0.421904662539443,"One-way ANOVA"
+"Maximum tadpole count",4,70,1.62900724759818,0.176620592844588,"One-way ANOVA"
+"Initial egg count",4,70,2.94904306220097,0.0259628770610992,"One-way ANOVA"

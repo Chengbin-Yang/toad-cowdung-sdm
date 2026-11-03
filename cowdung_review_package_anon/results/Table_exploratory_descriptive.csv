@@ -1,0 +1,21 @@
+"outcome","group","mean","sd","n"
+"First tadpole appearance (days)","Control",3.35714285714286,0.841897386141095,14
+"First tadpole appearance (days)","Low",3.26666666666667,0.79880863671798,15
+"First tadpole appearance (days)","Medium",3.6,0.50709255283711,15
+"First tadpole appearance (days)","High",3.06666666666667,0.961150104723255,15
+"First tadpole appearance (days)","Ultra-High",3.6,0.632455532033676,15
+"First limb appearance (days)","Control",28.5,3.41377300854145,14
+"First limb appearance (days)","Low",27.4,2.5579009251449,15
+"First limb appearance (days)","Medium",27.2666666666667,3.93639912804051,15
+"First limb appearance (days)","High",27.6,3.39747805627309,15
+"First limb appearance (days)","Ultra-High",25,1.88982236504614,15
+"Tadpole-to-limb interval (days)","Control",25.1428571428571,3.54871900738937,14
+"Tadpole-to-limb interval (days)","Low",24.1333333333333,2.44559857314163,15
+"Tadpole-to-limb interval (days)","Medium",23.6666666666667,3.97611918955202,15
+"Tadpole-to-limb interval (days)","High",24.5333333333333,3.64234356790606,15
+"Tadpole-to-limb interval (days)","Ultra-High",21.4,2.32379000772445,15
+"Limb-to-froglet interval (days)","Control",14.5,4.14636077691121,14
+"Limb-to-froglet interval (days)","Low",13.1428571428571,3.15880071831415,14
+"Limb-to-froglet interval (days)","Medium",13.5333333333333,2.38646979767985,15
+"Limb-to-froglet interval (days)","High",13.5333333333333,3.09069263311332,15
+"Limb-to-froglet interval (days)","Ultra-High",13.2,2.45531493470215,15

@@ -1,0 +1,10 @@
+"model","term","HR","lower95","upper95","stat","p"
+"Main: continuous concentration + frailty(origin)","concentration",1.42098664592108,1.14425093272248,1.7646505588436,10.1078276000738,0.00147640893880278
+"Main: continuous concentration + frailty(origin)","init_eggs",0.963786615768123,0.895166049267062,1.03766741544132,0.958026674761654,0.327684556914727
+"Main: continuous concentration + frailty(origin)","frailty(origin)",NA,NA,NA,29.5790660101467,3.41693171626453e-06
+"Supplementary: categorical treatment + frailty(origin)","groupLow",1.21587820019056,0.537529375303116,2.7502865250201,0.220296313607367,0.63881423498061
+"Supplementary: categorical treatment + frailty(origin)","groupMedium",1.57159676123424,0.662315710277843,3.7292130348015,1.05151868119247,0.305157580070965
+"Supplementary: categorical treatment + frailty(origin)","groupHigh",1.97995486329768,0.898885327246683,4.36120286077412,2.8743273852936,0.0900025724196478
+"Supplementary: categorical treatment + frailty(origin)","groupUltra-High",3.79776784525397,1.58356156250453,9.10797593724979,8.93968078337805,0.00279041480995127
+"Supplementary: categorical treatment + frailty(origin)","init_eggs",0.968790377169067,0.8951615075387,1.0484753723113,0.618113289533717,0.431749264574726
+"Supplementary: categorical treatment + frailty(origin)","frailty(origin)",NA,NA,NA,28.608838513413,5.17180207287236e-06

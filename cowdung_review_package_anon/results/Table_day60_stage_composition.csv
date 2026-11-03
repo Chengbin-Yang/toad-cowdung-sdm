@@ -1,0 +1,31 @@
+"group","stage","mean_percent"
+"Control","Adults",0
+"Control","Cumulative deaths",42.7303491608934
+"Control","Eggs",0
+"Control","Froglets",28.5707892950963
+"Control","Limb-development stage",19.9336099830353
+"Control","Tadpoles",8.76525156097502
+"Low","Adults",0
+"Low","Cumulative deaths",35.7104782653802
+"Low","Eggs",0
+"Low","Froglets",33.9576280654712
+"Low","Limb-development stage",28.4054929094145
+"Low","Tadpoles",1.92640075973409
+"Medium","Adults",0
+"Medium","Cumulative deaths",39.7929225364008
+"Medium","Eggs",0
+"Medium","Froglets",33.0891538413278
+"Medium","Limb-development stage",25.0645764863156
+"Medium","Tadpoles",2.05334713595583
+"High","Adults",0
+"High","Cumulative deaths",36.9496548245218
+"High","Eggs",0
+"High","Froglets",38.8278457179035
+"High","Limb-development stage",24.2224994575747
+"High","Tadpoles",0
+"Ultra-High","Adults",0
+"Ultra-High","Cumulative deaths",50.4743975519572
+"Ultra-High","Eggs",0
+"Ultra-High","Froglets",39.5783598355828
+"Ultra-High","Limb-development stage",9.35200451722191
+"Ultra-High","Tadpoles",0.595238095238095
